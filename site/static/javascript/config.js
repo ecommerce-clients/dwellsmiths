@@ -1,0 +1,1 @@
+var SubDomain = 'dwellsmiths'; var SiteID = '1F5B128F-788E-4197-A909-9CF8C2ECF8F5'; var host = 'https://api.eraconnect.net';
